@@ -2,7 +2,7 @@ var jsdom = require('jsdom'),
     fs = require('fs'),
     assert = require('chai').assert,
     file = fs.readFileSync('index.html').toString();
-
+//mój komentarz
 describe('Your HTML Page', function() {
   var window;
   before(function(next) {
