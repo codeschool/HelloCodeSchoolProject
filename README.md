@@ -8,7 +8,7 @@ To get started with this project, head over to the [Hello Code School](https://w
 
 # Prerequisites
 
-In order to complete this project, you'll need to know the basics of HTML! Aside from that, you'll need a local computer where you can install git, and edit some files. We'll walk you through that part, so if you haven't used Git before -- don't worry. We recommend that you should have already completed Code Schools [Front-End Foundations](https://www.codeschool.com/courses/front-end-foundations) course, or have basic familiarity with HTML. When we say basic familiarity here's what we mean:
+To complete this project, you should know the basic concepts of HTML. Aside from that, you will need a local computer where you can install git, and edit some files. We will walk you through that part, so if you have not used Git before -- don't worry. You are recommended to complete Code Schools Front-End Foundations [Front-End Foundations](https://www.codeschool.com/courses/front-end-foundations) course, or have basic familiarity with HTML. When we say basic familiarity here is what we mean:
 
 * Know what an HTML tag looks like
 * Know some of the most common tags -- `title`, `h1`, `ul`, `li`.
